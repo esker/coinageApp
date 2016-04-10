@@ -2,7 +2,7 @@
     "name": "coinageApp",
     "version": "0.0.1",
     "authors": [
-      'Isaac Gibbs <isaac.gibbs@gmail.com>'
+      "Isaac Gibbs <isaac.gibbs@gmail.com>"
     ],
     "license": "MIT",
     "ignore": [
