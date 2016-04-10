@@ -1,6 +1,15 @@
 {
     "name": "coinageApp",
     "version": "0.0.1",
+    "authors": [
+      'Isaac Gibbs <isaac.gibbs@gmail.com>'
+    ],
+    "license": "MIT",
+    "ignore": [
+      "**/.*",
+      "node_modules",
+      "bower_components"
+    ],
     "dependencies": {
           "angular": "~1.5.3",
           "angular-material": "~1.0.7"
